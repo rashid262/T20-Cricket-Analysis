@@ -50,7 +50,7 @@ Dashboards are created in Power BI. The Power BI files can be found in the power
 - Team performance
 ### Running the Code
 
-simply just clone the repo and see the PowerBI file you your PowerBI Desktop
+simply just clone the repo and see the PowerBI file your PowerBI Desktop
 
 
 
